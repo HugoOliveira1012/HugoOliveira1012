@@ -15,3 +15,9 @@ Atualmente estou aprimorando meus conhecimentos em:
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HugoOliveira1012&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HugoOliveira1012&layout=compact&langs_count=7&theme=dracula" />
 </p>
+
+## 🚀 O que estou fazendo agora?
+- 🔭 Atualmente trabalhando em projetos de Landing Pages na **Setup Pro Digital**.
+- 🌱 Estudando a fundo as funcionalidades do **JavaScript ES6+**.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
+- ⚡ Curiosidade: Apaixonado por transformar ideias em código funcional.
